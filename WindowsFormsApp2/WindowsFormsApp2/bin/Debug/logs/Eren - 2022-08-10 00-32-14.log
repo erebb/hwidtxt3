@@ -1,0 +1,6 @@
+2022-08-10 00:32:14.286 | DEBUG    | __main__:main:1399 - Welcome! This Tool By EREN
+2022-08-10 00:32:14.396 | DEBUG    | __main__:hooking_logic:1414 - Activating hooks for all clients, please be patient...
+2022-08-10 00:32:15.992 | DEBUG    | __main__:main:1438 - Hooks activated. Setting up hotkeys...
+2022-08-10 00:32:15.995 | DEBUG    | __main__:main:1467 - Hotkeys ready!
+2022-08-10 00:32:18.106 | DEBUG    | __main__:disable_hotkeys:667 - Client not selected, stopping hotkey listener.
+2022-08-10 00:32:23.925 | DEBUG    | __main__:kill_tool:437 - F9 key pressed, killing Eren.

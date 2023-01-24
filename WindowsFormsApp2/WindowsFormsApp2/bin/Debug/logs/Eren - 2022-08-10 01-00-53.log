@@ -1,0 +1,9 @@
+2022-08-10 01:00:53.161 | DEBUG    | __main__:main:1401 - Welcome! This Tool By EREN
+2022-08-10 01:00:53.276 | DEBUG    | __main__:hooking_logic:1416 - Activating hooks for all clients, please be patient...
+2022-08-10 01:01:03.872 | DEBUG    | __main__:main:1440 - Hooks activated. Setting up hotkeys...
+2022-08-10 01:01:03.875 | DEBUG    | __main__:main:1469 - Hotkeys ready!
+2022-08-10 01:01:06.015 | DEBUG    | __main__:disable_hotkeys:669 - Client not selected, stopping hotkey listener.
+2022-08-10 01:01:06.674 | DEBUG    | __main__:enable_hotkeys:646 - Client selected, starting hotkey listener.
+2022-08-10 01:01:07.007 | DEBUG    | __main__:disable_hotkeys:669 - Client not selected, stopping hotkey listener.
+2022-08-10 01:04:32.371 | DEBUG    | __main__:enable_hotkeys:646 - Client selected, starting hotkey listener.
+2022-08-10 01:04:36.517 | DEBUG    | __main__:disable_hotkeys:669 - Client not selected, stopping hotkey listener.
